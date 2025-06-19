@@ -344,14 +344,6 @@
 .banner .btn{
     display: none;
 }
-.animate-from-left,
-    .animate-from-right,
-    .animate-from-top,
-    .animate-from-bottom {
-        opacity: 1 !important;   
-        transform: translate(0, 0) !important;
-        transition: none !important;  
-    }
 @keyframes zoomInOut {
   0% {
     transform: scale(1);
